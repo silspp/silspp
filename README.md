@@ -1,16 +1,21 @@
-### Hi there 👋
+# 3 ano colégio santa felicidade
 
-<!--
-**silspp/silspp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Bem-vindos a nossa página ** 💙
 
-Here are some ideas to get you started:
+Meu nome é silvio 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sou professor do curso de matematica II 
+
+-  Aqui será publicado alguns projetos compartilhados em sala de aula
+-  Projetos desenvolvidos pela plataforma [Alura](http://www.alura.com.br)
+
+### Para entrar em contato comigo 📧
+silvio.pereira@escola.pr.gov.br
+
+
+
+
+
+
+![](https://media.tenor.com/xKJ0blGgIlQAAAAM/dance-happy.gif)
+
