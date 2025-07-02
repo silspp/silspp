@@ -1,6 +1,6 @@
 
 
-** Bem-vindos a nossa página ** 💙
+** Bem-vindos a nossa página ** 
 
 Meu nome é silvio 
 
